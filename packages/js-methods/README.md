@@ -1,6 +1,6 @@
 # `js-methods`
 
-> TODO: description
+> 手写的 js 方法
 
 ## Usage
 

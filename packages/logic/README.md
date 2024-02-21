@@ -1,6 +1,6 @@
 # `logic`
 
-> TODO: description
+> 算法
 
 ## Usage
 

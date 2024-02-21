@@ -1,6 +1,6 @@
 # `lib`
 
-> TODO: description
+> 第三方库的学习
 
 ## Usage
 
