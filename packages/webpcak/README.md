@@ -1,6 +1,6 @@
 # `webpcak`
 
-> webpack study
+> webpack
 
 ## Usage
 

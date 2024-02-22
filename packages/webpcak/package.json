@@ -21,9 +21,19 @@
     "url": "git+https://github.com/qhy354985240/FE.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "build": "webpack",
+    "watch": "webpack --watch"
   },
   "bugs": {
     "url": "https://github.com/qhy354985240/FE/issues"
+  },
+  "devDependencies": {
+    "css-loader": "^6.10.0",
+    "html-webpack-plugin": "^5.6.0",
+    "style-loader": "^3.3.4",
+    "webpack": "5.0.0"
+  },
+  "dependencies": {
+    "webpack-cli": "^5.1.4"
   }
 }
